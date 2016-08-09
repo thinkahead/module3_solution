@@ -63,7 +63,11 @@ h2 { /* Menu */
 }
 /* END HEADER */
 
-#chicken, #beef, #sushi {
+#chicken section, #beef section, #sushi section {
   background-color: grey;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
